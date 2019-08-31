@@ -58,7 +58,6 @@ A: The purpose of line 11 is to assign 'color' to the function 'color.lower().st
 Run the program and answer the question.
 
 
-
 Open main8.py. What is the purpose of line 11? 
 A: The purpose of line 11 is to allow the program to continually ask the question until the conditon is met.
 Why are lines 12–19 indented? 
